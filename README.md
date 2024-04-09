@@ -7,3 +7,5 @@ Each figure is produced by individual Jupyter Notebooks:
 * [Figure 1](figure1_infections_vs_time.ipynb): Total and cumulative number of infections over time for unprotected, vaccinated, and intranasal prophylactic groups
 * [Figure 2](figure2_coverage_vs_efficacy.ipynb): Intervention coverage vs efficacy on the percentage of infections averted
 * [Figure 3](figure3_infections_vs_R0.ipynb): Percentage of infections averted as a function of the basic reproduction number
+
+The ODE models describing unprotected, vaccinated, and intranasal prophylactic groups are given in [utils.py](utils.py).
